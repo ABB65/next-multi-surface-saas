@@ -1,18 +1,18 @@
 {
   "lastOperation": {
     "locale": "en",
-    "model": "changelog-entry",
+    "model": "e2e-tmp-ms3hml5p",
     "source": "mcp-studio",
-    "timestamp": "2026-07-27T17:14:28.687Z",
+    "timestamp": "2026-07-27T17:15:50.384Z",
     "tool": "merge"
   },
   "stats": {
-    "entries": 30,
-    "lastSync": "2026-07-27T17:14:28.687Z",
+    "entries": 31,
+    "lastSync": "2026-07-27T17:15:50.384Z",
     "locales": [
       "en"
     ],
-    "models": 18
+    "models": 19
   },
   "version": "1"
 }
