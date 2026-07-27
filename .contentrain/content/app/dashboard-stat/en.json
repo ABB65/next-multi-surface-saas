@@ -1,9 +1,4 @@
 {
-  "lat-ms3rbr6b-1": {
-    "label": "latency 1",
-    "trend": "steady",
-    "value": "0"
-  },
   "lat-ms3rc534-2": {
     "label": "latency 2",
     "trend": "steady",
