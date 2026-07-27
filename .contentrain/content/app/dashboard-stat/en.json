@@ -4,6 +4,11 @@
     "trend": "steady",
     "value": "0"
   },
+  "lat-ms3rc534-2": {
+    "label": "latency 2",
+    "trend": "steady",
+    "value": "0"
+  },
   "stat-docs": {
     "delta": "+11 pts",
     "label": "Docs parity coverage",
