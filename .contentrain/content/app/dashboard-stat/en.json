@@ -1,10 +1,4 @@
 {
-  "e2e-probe-ms3hml5p": {
-    "delta": "+1",
-    "label": "E2E Probe",
-    "trend": "up",
-    "value": "42"
-  },
   "stat-docs": {
     "delta": "+11 pts",
     "label": "Docs parity coverage",
