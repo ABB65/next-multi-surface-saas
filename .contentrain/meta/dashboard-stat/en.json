@@ -13,10 +13,5 @@
     "source": "import",
     "status": "draft",
     "updated_by": "contentrain-starters"
-  },
-  "v021-probe-ms3r24fj": {
-    "source": "agent",
-    "status": "draft",
-    "updated_by": "contentrain-mcp"
   }
 }
