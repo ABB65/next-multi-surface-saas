@@ -1,18 +1,18 @@
 {
   "lastOperation": {
     "locale": "en",
-    "model": "dashboard-stat",
+    "model": "e2e-tmp-ms3hml5p",
     "source": "mcp-studio",
-    "timestamp": "2026-07-27T17:17:20.696Z",
+    "timestamp": "2026-07-27T17:17:27.221Z",
     "tool": "merge"
   },
   "stats": {
     "entries": 30,
-    "lastSync": "2026-07-27T17:17:20.696Z",
+    "lastSync": "2026-07-27T17:17:27.221Z",
     "locales": [
       "en"
     ],
-    "models": 19
+    "models": 18
   },
   "version": "1"
 }
