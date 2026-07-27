@@ -1,14 +1,14 @@
 {
   "lastOperation": {
     "locale": "en",
-    "model": "e2e-tmp-ms3hml5p",
+    "model": "dashboard-stat",
     "source": "mcp-studio",
-    "timestamp": "2026-07-27T17:17:27.221Z",
+    "timestamp": "2026-07-27T21:39:36.565Z",
     "tool": "merge"
   },
   "stats": {
-    "entries": 30,
-    "lastSync": "2026-07-27T17:17:27.221Z",
+    "entries": 31,
+    "lastSync": "2026-07-27T21:39:36.565Z",
     "locales": [
       "en"
     ],
