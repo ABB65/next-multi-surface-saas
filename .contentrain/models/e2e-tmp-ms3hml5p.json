@@ -1,0 +1,17 @@
+{
+  "id": "e2e-tmp-ms3hml5p",
+  "name": "E2E Temp Model",
+  "kind": "collection",
+  "domain": "app",
+  "i18n": false,
+  "description": "Temporary model created by the directory-review E2E probe.",
+  "fields": {
+    "note": {
+      "type": "text"
+    },
+    "title": {
+      "required": true,
+      "type": "string"
+    }
+  }
+}
