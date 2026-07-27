@@ -1,4 +1,9 @@
 {
+  "e2e-probe-ms3hml5p": {
+    "source": "agent",
+    "status": "draft",
+    "updated_by": "contentrain-mcp"
+  },
   "stat-docs": {
     "source": "import",
     "status": "draft",
