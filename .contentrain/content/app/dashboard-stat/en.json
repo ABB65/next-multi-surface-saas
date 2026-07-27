@@ -19,5 +19,10 @@
     "note": "Feature names and plan labels are reused instead of rewritten per surface.",
     "trend": "steady",
     "value": "27 terms"
+  },
+  "v021-probe-ms3r24fj": {
+    "label": "v0.2.1 probe",
+    "trend": "steady",
+    "value": "1"
   }
 }
