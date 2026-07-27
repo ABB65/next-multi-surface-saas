@@ -1,4 +1,9 @@
 {
+  "lat-ms3rbr6b-1": {
+    "label": "latency 1",
+    "trend": "steady",
+    "value": "0"
+  },
   "stat-docs": {
     "delta": "+11 pts",
     "label": "Docs parity coverage",
