@@ -1,9 +1,4 @@
 {
-  "lat-ms3rc534-2": {
-    "source": "agent",
-    "status": "draft",
-    "updated_by": "contentrain-mcp"
-  },
   "stat-docs": {
     "source": "import",
     "status": "draft",
